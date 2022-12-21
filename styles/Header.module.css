@@ -1,0 +1,13 @@
+.navbar {
+    width: 100%;
+    padding: 1.25rem;
+}
+.navbar > ul {
+    display: flex;
+    flex-flow: row wrap;
+    width: 100%;
+    
+}
+.navLink {
+    padding-right: 1.25rem;
+}
